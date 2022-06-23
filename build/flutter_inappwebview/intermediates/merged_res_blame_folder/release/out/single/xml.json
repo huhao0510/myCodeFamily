@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/res/merged/release/xml/provider_paths.xml",
+        "source": "/Users/huhao/DevelopSpace/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_inappwebview-5.4.3+7/android/src/main/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/res/merged/release/xml/image_share_filepaths.xml",
+        "source": "/Users/huhao/.gradle/caches/transforms-2/files-2.1/164364a7d3bd20757c7c6e3fe965135c/browser-1.4.0/res/xml/image_share_filepaths.xml"
+    }
+]

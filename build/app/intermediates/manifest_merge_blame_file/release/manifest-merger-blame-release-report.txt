@@ -1,0 +1,178 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.zxbig"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:3:5-67
+11-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:3:22-64
+12
+13    <queries>
+13-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:7:5-11:15
+14        <intent>
+14-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:8:9-10:18
+15            <action android:name="android.support.customtabs.action.CustomTabsService" />
+15-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:9:13-90
+15-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:9:21-87
+16        </intent>
+17    </queries>
+18
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->[:connectivity_plus] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/connectivity_plus/intermediates/library_manifest/release/AndroidManifest.xml:7:5-79
+19-->[:connectivity_plus] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/connectivity_plus/intermediates/library_manifest/release/AndroidManifest.xml:7:22-76
+20
+21    <application
+22        android:name="android.app.Application"
+22-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:6:9-42
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.7.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/1978c8540575e4da29114a40e6bf1a1a/core-1.7.0/AndroidManifest.xml:24:18-86
+24        android:icon="@mipmap/ic_launcher"
+24-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:7:9-43
+25        android:label="zxbig" >
+25-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:5:9-30
+26        <activity
+26-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:8:9-28:20
+27            android:name="com.example.zxbig.MainActivity"
+27-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:9:13-41
+28            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+28-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:13:13-163
+29            android:exported="true"
+29-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:10:13-36
+30            android:hardwareAccelerated="true"
+30-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:14:13-47
+31            android:launchMode="singleTop"
+31-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:11:13-43
+32            android:theme="@style/LaunchTheme"
+32-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:12:13-47
+33            android:windowSoftInputMode="adjustResize" >
+33-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:15:13-55
+34
+35            <!--
+36                 Specifies an Android theme to apply to this Activity as soon as
+37                 the Android process has started. This theme is visible to the user
+38                 while the Flutter UI initializes. After that, this theme continues
+39                 to determine the Window background behind the Flutter UI.
+40            -->
+41            <meta-data
+41-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:20:13-23:17
+42                android:name="io.flutter.embedding.android.NormalTheme"
+42-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:21:15-70
+43                android:resource="@style/NormalTheme" />
+43-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:22:15-52
+44
+45            <intent-filter>
+45-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:24:13-27:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:25:17-68
+46-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:25:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:26:17-76
+48-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:26:27-74
+49            </intent-filter>
+50        </activity>
+51        <!--
+52             Don't delete the meta-data below.
+53             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+54        -->
+55        <meta-data
+55-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:31:9-33:33
+56            android:name="flutterEmbedding"
+56-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:32:13-44
+57            android:value="2" />
+57-->/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:33:13-30
+58
+59        <activity
+59-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:14:9-18:47
+60            android:name="com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity"
+60-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:15:13-104
+61            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density"
+61-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:16:13-137
+62            android:exported="true"
+62-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:17:13-36
+63            android:theme="@style/AppTheme" />
+63-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:18:13-44
+64        <activity
+64-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:19:9-22:55
+65            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity"
+65-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:20:13-112
+66            android:exported="true"
+66-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:21:13-36
+67            android:theme="@style/ThemeTransparent" />
+67-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:22:13-52
+68        <activity
+68-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:23:9-26:55
+69            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivity"
+69-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:24:13-106
+70            android:exported="true"
+70-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:25:13-36
+71            android:theme="@style/ThemeTransparent" />
+71-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:26:13-52
+72        <activity
+72-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:27:9-31:55
+73            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivitySingleInstance"
+73-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:28:13-126
+74            android:exported="true"
+74-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:29:13-36
+75            android:launchMode="singleInstance"
+75-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:30:13-48
+76            android:theme="@style/ThemeTransparent" />
+76-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:31:13-52
+77        <activity
+77-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:32:9-36:55
+78            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivitySingleInstance"
+78-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:33:13-120
+79            android:exported="true"
+79-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:34:13-36
+80            android:launchMode="singleInstance"
+80-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:35:13-48
+81            android:theme="@style/ThemeTransparent" />
+81-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:36:13-52
+82
+83        <receiver
+83-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:38:9-41:40
+84            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver"
+84-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:39:13-111
+85            android:enabled="true"
+85-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:40:13-35
+86            android:exported="false" />
+86-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:41:13-37
+87
+88        <meta-data
+88-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:43:9-45:36
+89            android:name="io.flutter.embedded_views_preview"
+89-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:44:13-61
+90            android:value="true" />
+90-->[:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:45:13-33
+91
+92        <provider
+92-->[androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+93            android:name="androidx.startup.InitializationProvider"
+93-->[androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+94            android:authorities="com.example.zxbig.androidx-startup"
+94-->[androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+95            android:exported="false" >
+95-->[androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+96            <meta-data
+96-->[androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+97                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+97-->[androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+98                android:value="androidx.startup" />
+98-->[androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+99            <meta-data
+99-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/905b75140256175900249fa3cdf80332/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+100                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+100-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/905b75140256175900249fa3cdf80332/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+101                android:value="androidx.startup" />
+101-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/905b75140256175900249fa3cdf80332/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+102        </provider>
+103    </application>
+104
+105</manifest>
