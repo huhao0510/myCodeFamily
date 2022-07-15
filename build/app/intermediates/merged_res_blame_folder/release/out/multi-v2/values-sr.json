@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/huhao/DevelopSpace/ZXXN/zxbig/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-sr/values-sr.xml",
+            "outputFile": "/Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-sr/values-sr.xml",
             "map": [
                 {
                     "source": "/Users/huhao/.gradle/caches/transforms-2/files-2.1/164364a7d3bd20757c7c6e3fe965135c/browser-1.4.0/res/values-sr/values-sr.xml",

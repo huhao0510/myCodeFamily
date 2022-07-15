@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/incremental/mergeReleaseResources/merged.dir/values-ca/values-ca.xml",
+            "outputFile": "/Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/incremental/mergeReleaseResources/merged.dir/values-ca/values-ca.xml",
             "map": [
                 {
                     "source": "/Users/huhao/.gradle/caches/transforms-2/files-2.1/6bdb6fe3947676c6b295df1af859a328/appcompat-1.4.1/res/values-ca/values-ca.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "/Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/res/merged/release/values-ca/values-ca.xml",
+            "outputFile": "/Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/res/merged/release/values-ca/values-ca.xml",
             "map": [
                 {
                     "source": "/Users/huhao/.gradle/caches/transforms-2/files-2.1/6bdb6fe3947676c6b295df1af859a328/appcompat-1.4.1/res/values-ca/values-ca.xml",

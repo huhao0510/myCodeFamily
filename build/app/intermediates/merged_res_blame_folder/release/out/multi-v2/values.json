@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/huhao/DevelopSpace/ZXXN/zxbig/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -131,7 +131,7 @@
                     }
                 },
                 {
-                    "source": "/Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/packaged_res/release/values/values.xml",
+                    "source": "/Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/packaged_res/release/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,11,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

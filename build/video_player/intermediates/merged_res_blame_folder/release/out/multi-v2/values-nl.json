@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/huhao/DevelopSpace/ZXXN/zxbig/build/video_player/intermediates/res/merged/release/values-nl/values-nl.xml",
+            "outputFile": "/Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/video_player/intermediates/res/merged/release/values-nl/values-nl.xml",
             "map": [
                 {
                     "source": "/Users/huhao/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/res/values-nl/values-nl.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "/Users/huhao/DevelopSpace/ZXXN/zxbig/build/video_player/intermediates/incremental/mergeReleaseResources/merged.dir/values-nl/values-nl.xml",
+            "outputFile": "/Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/video_player/intermediates/incremental/mergeReleaseResources/merged.dir/values-nl/values-nl.xml",
             "map": [
                 {
                     "source": "/Users/huhao/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/res/values-nl/values-nl.xml",

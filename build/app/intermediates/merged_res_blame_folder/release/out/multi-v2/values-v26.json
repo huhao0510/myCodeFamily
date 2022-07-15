@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/huhao/DevelopSpace/ZXXN/zxbig/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-v26/values-v26.xml",
+            "outputFile": "/Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
                     "source": "/Users/huhao/.gradle/caches/transforms-2/files-2.1/6bdb6fe3947676c6b295df1af859a328/appcompat-1.4.1/res/values-v26/values-v26.xml",

@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:4:4-34:19
-MERGED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:13:5-46:19
-MERGED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:13:5-46:19
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:4:4-34:19
+MERGED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:13:5-46:19
+MERGED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:13:5-46:19
 MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.core:core:1.7.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/1978c8540575e4da29114a40e6bf1a1a/core-1.7.0/AndroidManifest.xml:24:5-89
@@ -16,22 +16,22 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/huhao/.gradle/caches
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/1978c8540575e4da29114a40e6bf1a1a/core-1.7.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:5:9-30
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:5:9-30
 	android:icon
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:7:9-43
 	android:name
-		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:6:9-42
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:6:9-42
 manifest
-ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:1:1-35:12
-INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:1:1-35:12
-INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:1:1-35:12
-INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:1:1-35:12
-MERGED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:2:1-48:12
-MERGED from [:video_player] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/video_player/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:webview_flutter] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/webview_flutter/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:connectivity_plus] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/connectivity_plus/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
-MERGED from [:wakelock] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/wakelock/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:1:1-35:12
+MERGED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:2:1-48:12
+MERGED from [:video_player] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/video_player/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_flutter] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/webview_flutter/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity_plus] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/connectivity_plus/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:wakelock] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/wakelock/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.webkit:webkit:1.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ffb3e577b83051159f15466c3f121322/webkit-1.4.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.browser:browser:1.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/164364a7d3bd20757c7c6e3fe965135c/browser-1.4.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/6bdb6fe3947676c6b295df1af859a328/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
@@ -68,41 +68,41 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/huhao/.gra
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/c1e11ba5aa57bc31665ec18e0194c06c/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/28c8bed6fae67e41db98432923c9a958/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/a861f0b05a17132e2f96ff286e3c4f23/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:1:1-35:12
-INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:1:1-35:12
-INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:1:1-35:12
 	package
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:2:5-32
-		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:2:5-32
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:1:1-35:12
-		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:1:1-35:12
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:1:1-35:12
-		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:1:1-35:12
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:3:5-67
+ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:3:5-67
 	android:name
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:3:22-64
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:3:22-64
 uses-sdk
-INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml
-MERGED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:video_player] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/video_player/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:video_player] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/video_player/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:webview_flutter] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/webview_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:webview_flutter] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/webview_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:connectivity_plus] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/connectivity_plus/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:connectivity_plus] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/connectivity_plus/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:wakelock] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/wakelock/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:wakelock] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/wakelock/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/video_player/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/video_player/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/webview_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/webview_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/connectivity_plus/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/connectivity_plus/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/wakelock/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/wakelock/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.webkit:webkit:1.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ffb3e577b83051159f15466c3f121322/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.webkit:webkit:1.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ffb3e577b83051159f15466c3f121322/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.browser:browser:1.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/164364a7d3bd20757c7c6e3fe965135c/browser-1.4.0/AndroidManifest.xml:20:5-22:41
@@ -175,130 +175,130 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/huhao/.gradle/caches/
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/28c8bed6fae67e41db98432923c9a958/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/a861f0b05a17132e2f96ff286e3c4f23/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/a861f0b05a17132e2f96ff286e3c4f23/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
 activity#com.example.zxbig.MainActivity
-ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:8:9-28:20
+ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:8:9-28:20
 	android:launchMode
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:11:13-43
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:11:13-43
 	android:hardwareAccelerated
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:14:13-47
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:14:13-47
 	android:windowSoftInputMode
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:15:13-55
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:15:13-55
 	android:exported
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:10:13-36
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:10:13-36
 	android:configChanges
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:13:13-163
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:13:13-163
 	android:theme
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:12:13-47
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:12:13-47
 	android:name
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:9:13-41
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:9:13-41
 meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:20:13-23:17
+ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:20:13-23:17
 	android:resource
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:22:15-52
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:22:15-52
 	android:name
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:21:15-70
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:21:15-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:24:13-27:29
+ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:24:13-27:29
 action#android.intent.action.MAIN
-ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:25:17-68
+ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:25:17-68
 	android:name
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:25:25-66
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:26:17-76
+ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:26:17-76
 	android:name
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:26:27-74
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:26:27-74
 meta-data#flutterEmbedding
-ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:31:9-33:33
+ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:31:9-33:33
 	android:value
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:33:13-30
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:33:13-30
 	android:name
-		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/android/app/src/main/AndroidManifest.xml:32:13-44
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:32:13-44
 queries
-ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:7:5-11:15
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:7:5-11:15
 intent#action:name:android.support.customtabs.action.CustomTabsService
-ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:8:9-10:18
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:8:9-10:18
 action#android.support.customtabs.action.CustomTabsService
-ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:9:13-90
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:9:13-90
 	android:name
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:9:21-87
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:9:21-87
 activity#com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity
-ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:14:9-18:47
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:14:9-18:47
 	android:exported
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:17:13-36
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:17:13-36
 	android:configChanges
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:16:13-137
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:16:13-137
 	android:theme
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:18:13-44
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:18:13-44
 	android:name
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:15:13-104
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:15:13-104
 activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity
-ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:19:9-22:55
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:19:9-22:55
 	android:exported
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:21:13-36
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:21:13-36
 	android:theme
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:22:13-52
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:22:13-52
 	android:name
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:20:13-112
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:20:13-112
 activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivity
-ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:23:9-26:55
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:23:9-26:55
 	android:exported
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:25:13-36
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:25:13-36
 	android:theme
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:26:13-52
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:26:13-52
 	android:name
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:24:13-106
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:24:13-106
 activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivitySingleInstance
-ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:27:9-31:55
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:27:9-31:55
 	android:launchMode
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:30:13-48
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:30:13-48
 	android:exported
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:29:13-36
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:29:13-36
 	android:theme
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:31:13-52
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:31:13-52
 	android:name
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:28:13-126
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:28:13-126
 activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivitySingleInstance
-ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:32:9-36:55
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:32:9-36:55
 	android:launchMode
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:35:13-48
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:35:13-48
 	android:exported
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:34:13-36
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:34:13-36
 	android:theme
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:36:13-52
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:36:13-52
 	android:name
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:33:13-120
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:33:13-120
 receiver#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver
-ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:38:9-41:40
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:38:9-41:40
 	android:enabled
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:40:13-35
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:40:13-35
 	android:exported
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:41:13-37
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:41:13-37
 	android:name
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:39:13-111
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:39:13-111
 meta-data#io.flutter.embedded_views_preview
-ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:43:9-45:36
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:43:9-45:36
 	android:value
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:45:13-33
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:45:13-33
 	android:name
-		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:44:13-61
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:44:13-61
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:connectivity_plus] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/connectivity_plus/intermediates/library_manifest/release/AndroidManifest.xml:7:5-79
+ADDED from [:connectivity_plus] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/connectivity_plus/intermediates/library_manifest/release/AndroidManifest.xml:7:5-79
 MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/efb71a39de811f8d922f386647a1ffa8/jetified-exoplayer-core-2.12.1/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/efb71a39de811f8d922f386647a1ffa8/jetified-exoplayer-core-2.12.1/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/6830ae7faaa0ead0c6c6fa9abf1675a7/jetified-exoplayer-common-2.12.1/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/6830ae7faaa0ead0c6c6fa9abf1675a7/jetified-exoplayer-common-2.12.1/AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from [:connectivity_plus] /Users/huhao/DevelopSpace/ZXXN/zxbig/build/connectivity_plus/intermediates/library_manifest/release/AndroidManifest.xml:7:22-76
+		ADDED from [:connectivity_plus] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/connectivity_plus/intermediates/library_manifest/release/AndroidManifest.xml:7:22-76
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/905b75140256175900249fa3cdf80332/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20

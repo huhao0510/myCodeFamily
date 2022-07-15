@@ -1,0 +1,285 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:4:4-34:19
+MERGED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-46:19
+MERGED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-46:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/905b75140256175900249fa3cdf80332/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/905b75140256175900249fa3cdf80332/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/84fb54f762601acf036bf24e99b8d14c/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/84fb54f762601acf036bf24e99b8d14c/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.core:core:1.7.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/1978c8540575e4da29114a40e6bf1a1a/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/1978c8540575e4da29114a40e6bf1a1a/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/87cae496edf0d81af80ab48e3e89ecce/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/87cae496edf0d81af80ab48e3e89ecce/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/1978c8540575e4da29114a40e6bf1a1a/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:1:1-35:12
+MERGED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:1:1-35:12
+MERGED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-48:12
+MERGED from [:video_player] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_flutter] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity_plus] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/connectivity_plus/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:wakelock] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/wakelock/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ffb3e577b83051159f15466c3f121322/webkit-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/164364a7d3bd20757c7c6e3fe965135c/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/6bdb6fe3947676c6b295df1af859a328/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/7f3dd40d81a0ae43767399f58da0c99b/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/28dcff47339054ea367a1e8b9fddab71/jetified-exoplayer-hls-2.12.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/90ad7cb4924ebf2538798cd2061da7e4/jetified-exoplayer-dash-2.12.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/eefcfa9a53f214249a7f464c6486cfd8/jetified-exoplayer-smoothstreaming-2.12.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/efb71a39de811f8d922f386647a1ffa8/jetified-exoplayer-core-2.12.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/huhao/.gradle/caches/transforms-2/files-2.1/062fa1659e0ac451f55bfe6f052dcda0/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/huhao/.gradle/caches/transforms-2/files-2.1/1cf286a2806b0f661ea8852261de95a5/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/0b9be430b0143e7e4da27cdcaf533688/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/905b75140256175900249fa3cdf80332/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/84fb54f762601acf036bf24e99b8d14c/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/1fdddb698f5b73fbeb212822ee0a08f1/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/31f353a9a281e68bb86b74dafdf601fb/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/a71638e40cbd9c9c6e5d2d7449ca53dd/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/eb26273f8f7192460456ce62b9bdf9ef/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/d9536c14ffde0b7289f12ba6def6bfa4/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/a59d1de1f299e68c5b049a432ccfd655/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/42415d22b488b741b7e8fbc712464c00/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/bc28a09d8d2212ffd5788fe6c1853326/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/1978c8540575e4da29114a40e6bf1a1a/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/87cae496edf0d81af80ab48e3e89ecce/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/b962778313a0e23f9ca3dbafc012c1af/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/c39070be4a8b092ae5970162a829e305/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/7bc9dee95bdd13d8392abaa54d3ac4c0/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/eac4820eab11ef9b13679619b341596e/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/3a89b53f4c0e1215dbfe28e33e508887/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/32deb2aa177ec436f007cb596d0a93c5/jetified-exoplayer-extractor-2.12.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/6830ae7faaa0ead0c6c6fa9abf1675a7/jetified-exoplayer-common-2.12.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/fb333fb43575d8a3b51161295454427f/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/33789d9b6acde6ce9172eed59546467e/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/c1e11ba5aa57bc31665ec18e0194c06c/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/28c8bed6fae67e41db98432923c9a958/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/a861f0b05a17132e2f96ff286e3c4f23/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:2:5-32
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:1:1-35:12
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:1:1-35:12
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:3:5-67
+MERGED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:3:5-67
+MERGED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml:3:22-64
+uses-sdk
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/connectivity_plus/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/connectivity_plus/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/wakelock/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/wakelock/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ffb3e577b83051159f15466c3f121322/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ffb3e577b83051159f15466c3f121322/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/164364a7d3bd20757c7c6e3fe965135c/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/164364a7d3bd20757c7c6e3fe965135c/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/6bdb6fe3947676c6b295df1af859a328/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/6bdb6fe3947676c6b295df1af859a328/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/7f3dd40d81a0ae43767399f58da0c99b/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/7f3dd40d81a0ae43767399f58da0c99b/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/28dcff47339054ea367a1e8b9fddab71/jetified-exoplayer-hls-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/28dcff47339054ea367a1e8b9fddab71/jetified-exoplayer-hls-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/90ad7cb4924ebf2538798cd2061da7e4/jetified-exoplayer-dash-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/90ad7cb4924ebf2538798cd2061da7e4/jetified-exoplayer-dash-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/eefcfa9a53f214249a7f464c6486cfd8/jetified-exoplayer-smoothstreaming-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/eefcfa9a53f214249a7f464c6486cfd8/jetified-exoplayer-smoothstreaming-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/efb71a39de811f8d922f386647a1ffa8/jetified-exoplayer-core-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/efb71a39de811f8d922f386647a1ffa8/jetified-exoplayer-core-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/huhao/.gradle/caches/transforms-2/files-2.1/062fa1659e0ac451f55bfe6f052dcda0/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/huhao/.gradle/caches/transforms-2/files-2.1/062fa1659e0ac451f55bfe6f052dcda0/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/huhao/.gradle/caches/transforms-2/files-2.1/1cf286a2806b0f661ea8852261de95a5/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/huhao/.gradle/caches/transforms-2/files-2.1/1cf286a2806b0f661ea8852261de95a5/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/0b9be430b0143e7e4da27cdcaf533688/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/0b9be430b0143e7e4da27cdcaf533688/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/905b75140256175900249fa3cdf80332/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/905b75140256175900249fa3cdf80332/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/84fb54f762601acf036bf24e99b8d14c/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/84fb54f762601acf036bf24e99b8d14c/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/1fdddb698f5b73fbeb212822ee0a08f1/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/1fdddb698f5b73fbeb212822ee0a08f1/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/31f353a9a281e68bb86b74dafdf601fb/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/31f353a9a281e68bb86b74dafdf601fb/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/a71638e40cbd9c9c6e5d2d7449ca53dd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/a71638e40cbd9c9c6e5d2d7449ca53dd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/eb26273f8f7192460456ce62b9bdf9ef/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/eb26273f8f7192460456ce62b9bdf9ef/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/d9536c14ffde0b7289f12ba6def6bfa4/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/d9536c14ffde0b7289f12ba6def6bfa4/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/a59d1de1f299e68c5b049a432ccfd655/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/a59d1de1f299e68c5b049a432ccfd655/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/42415d22b488b741b7e8fbc712464c00/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/42415d22b488b741b7e8fbc712464c00/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/bc28a09d8d2212ffd5788fe6c1853326/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/bc28a09d8d2212ffd5788fe6c1853326/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/1978c8540575e4da29114a40e6bf1a1a/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/1978c8540575e4da29114a40e6bf1a1a/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/87cae496edf0d81af80ab48e3e89ecce/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/87cae496edf0d81af80ab48e3e89ecce/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/b962778313a0e23f9ca3dbafc012c1af/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/b962778313a0e23f9ca3dbafc012c1af/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/c39070be4a8b092ae5970162a829e305/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/c39070be4a8b092ae5970162a829e305/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/7bc9dee95bdd13d8392abaa54d3ac4c0/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/7bc9dee95bdd13d8392abaa54d3ac4c0/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/eac4820eab11ef9b13679619b341596e/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/eac4820eab11ef9b13679619b341596e/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/3a89b53f4c0e1215dbfe28e33e508887/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/3a89b53f4c0e1215dbfe28e33e508887/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/32deb2aa177ec436f007cb596d0a93c5/jetified-exoplayer-extractor-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/32deb2aa177ec436f007cb596d0a93c5/jetified-exoplayer-extractor-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/6830ae7faaa0ead0c6c6fa9abf1675a7/jetified-exoplayer-common-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/6830ae7faaa0ead0c6c6fa9abf1675a7/jetified-exoplayer-common-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/fb333fb43575d8a3b51161295454427f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/fb333fb43575d8a3b51161295454427f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/33789d9b6acde6ce9172eed59546467e/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/33789d9b6acde6ce9172eed59546467e/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/c1e11ba5aa57bc31665ec18e0194c06c/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/c1e11ba5aa57bc31665ec18e0194c06c/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/28c8bed6fae67e41db98432923c9a958/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/28c8bed6fae67e41db98432923c9a958/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/a861f0b05a17132e2f96ff286e3c4f23/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/a861f0b05a17132e2f96ff286e3c4f23/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/android/app/src/debug/AndroidManifest.xml
+queries
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-11:15
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-10:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-90
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:9:21-87
+activity#com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-18:47
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-36
+	android:configChanges
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-137
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-44
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-104
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-22:55
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-36
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-112
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivity
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-26:55
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-36
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-106
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivitySingleInstance
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:27:9-31:55
+	android:launchMode
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-48
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:31:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-126
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivitySingleInstance
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:32:9-36:55
+	android:launchMode
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-48
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:34:13-36
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:33:13-120
+receiver#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:38:9-41:40
+	android:enabled
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-35
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-111
+meta-data#io.flutter.embedded_views_preview
+ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:43:9-45:36
+	android:value
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:45:13-33
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:44:13-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:connectivity_plus] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/connectivity_plus/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/efb71a39de811f8d922f386647a1ffa8/jetified-exoplayer-core-2.12.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/efb71a39de811f8d922f386647a1ffa8/jetified-exoplayer-core-2.12.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/6830ae7faaa0ead0c6c6fa9abf1675a7/jetified-exoplayer-common-2.12.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] /Users/huhao/.gradle/caches/transforms-2/files-2.1/6830ae7faaa0ead0c6c6fa9abf1675a7/jetified-exoplayer-common-2.12.1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:connectivity_plus] /Users/huhao/DevelopSpace/ZXXN/zxbig/myCode/build/connectivity_plus/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/905b75140256175900249fa3cdf80332/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/905b75140256175900249fa3cdf80332/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/84fb54f762601acf036bf24e99b8d14c/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/84fb54f762601acf036bf24e99b8d14c/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/ab0c8e5233c8c4da5fd02886c7a6c126/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/905b75140256175900249fa3cdf80332/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/905b75140256175900249fa3cdf80332/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/huhao/.gradle/caches/transforms-2/files-2.1/905b75140256175900249fa3cdf80332/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
